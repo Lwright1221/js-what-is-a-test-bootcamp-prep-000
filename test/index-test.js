@@ -24,3 +24,12 @@ describe('what-is-a-test', () => {
 })
 */
 
+describe('Name',
+() => {
+  it('returns
+  "Susan"', () =>{
+    
+    Expect(index.name).toEqual('Susan')
+    })
+    })
+})
